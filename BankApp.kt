@@ -1,4 +1,4 @@
-// File: BankApp.kt — Fixed platform clash on getBalance()
+
 
 fun main() {
     val bank = Bank()
